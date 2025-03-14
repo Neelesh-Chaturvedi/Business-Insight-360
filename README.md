@@ -3,7 +3,7 @@
 📌 Project Overview
 
 Business Insights 360 is an interactive Power BI dashboard that provides comprehensive business intelligence insights across key areas: Finance, Sales, Supply Chain, Marketing, and Executive Overview. This project applies data analytics, visualization, and storytelling to help businesses make data-driven decisions efficiently.
-
+________________________________________
 📊 Key Features & Insights
 
 1️⃣ Home Page
@@ -34,7 +34,7 @@ Provides insights into customer engagement and retention strategies.
 A consolidated high-level summary of Finance, Sales, Supply Chain, and Marketing.
 Offers key performance indicators (KPIs) for top management.
 Helps executives make quick strategic decisions based on data.
-
+__________________________________________
 🛠️ Skills & Technologies Used
 
 📌 Data Processing & Transformation
@@ -62,7 +62,7 @@ Developed interactive and user-friendly reports with:
 Extracted key trends, outliers, and actionable insights from data.
 Provided data-driven recommendations to optimize business performance.
 Focused on enhancing decision-making for stakeholders.
-
+________________________________________
 📂 Dataset Information
 The dataset consists of multiple data sources, including:
 
@@ -72,5 +72,10 @@ Inventory & supply chain data 🚚
 Marketing performance data 📢
 Data has been processed and structured for efficient reporting.
 
+________________________________________
+🔗 Live Interactive Dashboard
+📌 Click Here to Access the Interactive Dashboard
+
+________________________________________
 🙌 Special Thanks
 A huge thanks to my mentors and the data analytics community for guiding me through this journey! Your insights and feedback have been invaluable.
