@@ -47,15 +47,21 @@ Established one-to-many and many-to-one relationships between datasets.
 
 📌 DAX (Data Analysis Expressions) Calculations
 Created custom measures and calculated columns, including:
+
 ✅ Gross Margin %, Net Profit %, Forecast Accuracy
+
 ✅ Year-over-Year (YoY) Growth Analysis
+
 ✅ Customer Retention & Sales Forecasting
+
 Used advanced DAX functions like CALCULATE, SUMX, DIVIDE, and FILTER.
 
 📌 Data Visualization & Dashboard Design
 Developed interactive and user-friendly reports with:
-✅ Bar charts, line graphs, KPI cards, and heatmaps
+✅ Bar charts, line graphs, KPI cards
+
 ✅ Drill-throughs, slicers, and filters for dynamic data exploration
+
 ✅ Custom color themes and layout design for professional presentation
 
 📌 Business Intelligence & Data Storytelling
