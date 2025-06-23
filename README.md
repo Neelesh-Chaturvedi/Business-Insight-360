@@ -78,10 +78,8 @@ Inventory & supply chain data 🚚
 Marketing performance data 📢
 Data has been processed and structured for efficient reporting.
 
-________________________________________
-🔗 Live Interactive Dashboard
 
-📌 [Click Here to Access the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQyYzdjZWEtZGFiNi00MWYxLTk0ZDgtOTZmZTU2MzUwZjg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 ________________________________________
 🙌 Special Thanks
